@@ -47,11 +47,17 @@ footer { margin-bottom: 20px; }
 /**
  * Header Logo Image
  */
+
+.logo-container{
+    position: relative;
+}
+
 .logo {
-    position: absolute;
-    margin-left: 0;
-    margin-right: 0;
-    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 50%;
 }
 
 /**
