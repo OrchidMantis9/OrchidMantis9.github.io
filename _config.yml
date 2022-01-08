@@ -11,7 +11,7 @@ description: >- # this means to ignore newlines until
   by a lone idiot.
 
 #LOGO FILE
-logo: logo-grey-thin.png
+logo: logo-blue-thin.png
 
 # BUILD SETTINGS
 remote_theme: b2a3e8/jekyll-theme-console
@@ -24,4 +24,4 @@ listen_for_clients_preferred_style: true
 header_pages:
   - index.md
   - about.md
-footer: 'find me on <a href="https://fosstodon.org/web/@OrchidMantis9">Mastodon</a>'
+footer: 'Orchid Mantis 9 - find me on <a href="https://fosstodon.org/web/@OrchidMantis9">Mastodon</a>'
