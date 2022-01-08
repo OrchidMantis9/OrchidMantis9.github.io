@@ -45,6 +45,17 @@ footer { margin-bottom: 20px; }
 :not(.menu) > ul > li:before { content: "-";  margin-right: 9px; }
 
 /**
+ * Header Logo Image
+ */
+.logo {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 60%;
+    height: auto;
+}
+
+/**
  * Header/Navigation
  */
 .menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; }
