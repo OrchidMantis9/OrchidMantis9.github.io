@@ -23,9 +23,9 @@ email: email@email.com
 description: >- # this means to ignore newlines until "baseurl:"
   An esoteric collection of musings, art, projects and scribbles created
   by a lone idiot.
-domain: "https://orchidmantis9.github.io"
+domain: "https://trash.ninja"
 baseurl: "/"
-url: "https://orchidmantis9.github.io"
+url: "https://trash.ninja"
 
 # Build settings
 #theme: minima
