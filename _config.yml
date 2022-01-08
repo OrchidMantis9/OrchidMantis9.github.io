@@ -44,6 +44,8 @@ listen_for_clients_preferred_style: true
 
 footer: 'find me on <a href="https://fosstodon.org/web/@OrchidMantis9">Mastodon</a>'
 
+logo: logo-grey.png
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
