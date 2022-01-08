@@ -24,4 +24,4 @@ listen_for_clients_preferred_style: true
 header_pages:
   - index.md
   - about.md
-footer: 'Orchid Mantis 9 - find me on <a href="https://fosstodon.org/web/@OrchidMantis9">Mastodon</a>'
+footer: 'Orchid Mantis 9 - find me on <a rel="me" href="https://fosstodon.org/web/@OrchidMantis9">Mastodon</a>'
