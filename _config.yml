@@ -1,6 +1,6 @@
 title: 'OrchidMantis9.github.io'
 description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
-baseurl: "/OrchidMantis9.github.io"
+baseurl: "/OrchidMantis9.github.io/"
 url: "https://OrchidMantis9.github.io"
 
 header_pages:
