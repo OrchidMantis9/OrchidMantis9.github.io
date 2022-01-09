@@ -25,3 +25,4 @@ header_pages:
   - index.md
   - about.md
 footer: 'Orchid Mantis 9 - find me on <a rel="me" href="https://fosstodon.org/web/@OrchidMantis9">Mastodon</a>'
+rss: '/rss'

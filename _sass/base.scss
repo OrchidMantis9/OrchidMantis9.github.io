@@ -47,18 +47,8 @@ footer { margin-bottom: 20px; }
 /**
  * Header Logo Image
  */
-
-.logo-container{
-    position: relative;
-}
-
-.logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    width: 50%;
-}
+.logo-container{ position: relative;}
+.logo {display: block; margin-left: auto; margin-right: auto; margin-top: 20px; width: 50%;}
 
 /**
  * Header/Navigation
@@ -68,6 +58,20 @@ footer { margin-bottom: 20px; }
 .menu ul li { display: inline;  margin-left: 10px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
+
+/**
+ * Post Images
+ */
+
+.post-image{
+    position: inherit;
+    border-radius: 10px;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 20px; 
+    width: 100%;
+}
 
 /**
  * Form
