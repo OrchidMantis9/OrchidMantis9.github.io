@@ -74,6 +74,45 @@ footer { margin-bottom: 20px; }
 }
 
 /**
+ * Tag Pill
+ */
+
+.tag_pill{
+    color: snow;
+    background-color: #b16157;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    font-size: 10px;
+}
+
+/**
+ * Tags Div
+ */
+.post-categories{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+/**
+ * Categories Page
+ */
+.archive-item{
+
+}
+.category-head-title{
+
+}
+
+.category-item-link{
+    text-decoration: none;
+    font-weight: normal;
+}
+
+/**
  * Form
  */
 input, select, textarea { padding: 0;  margin: 0;  -webkit-appearance: none;  -webkit-border-radius: 0;  border: none; }
