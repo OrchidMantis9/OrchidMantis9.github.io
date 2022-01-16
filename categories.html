@@ -13,7 +13,8 @@ title: Categories
     <h3 class="category-head">Posts tagged <i>{{ category_name }}</i>:</h3>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <h4><a class="category-item-link" href="{{ site.url }}{{ post.url }}">- {{post.title}}</a></h4>
+      {%- assign date_format = "%Y-%m-%d" -%}
+      - [ {{ post.date | date: date_format }} ]><a class="category-item-link" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
     </article>
     {% endfor %}
   </div>
