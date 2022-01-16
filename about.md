@@ -1,17 +1,17 @@
 ---
 layout: page
-title: (about)
+title: about
 permalink: /about/
 ---
 
-## 🌸 What is the purpose of this site? What am I looking at?
+## 🗑️ What is the purpose of this site? What am I looking at?
 
 This place serves as a form a private repository for an expert manufacturer of sporadic content. Basically a home of passion projects and esoteric ramblings. 
 
 If you find something here of interest, by all means, let me know as it means I'm probably doing something wrong. 
 
 
-### 🌸 Why [Trash][trashLink].[Ninja][ninjaLink]? 
+### 🗑️ Why [Trash][trashLink].[Ninja][ninjaLink]? 
 
 I've been floating around online under different names spewing all sorts of _"content"_ in varying formats; music, artwork, reviews and tales, etc... And whereas my moniker, projects and approach may have changed, there has always been one constant: 
 
@@ -22,17 +22,17 @@ And so I've developed an acute skill at producing absolute top-shelf garbage in 
 ALSO, I was looking a newly released domain extensions up for purchase and I couldn't think of anything interesting to precede '.ninja'. 
 
 
-### 🌸 Site not pretty. Why site not pretty?
+### 🗑️ Site not pretty. Why site not pretty?
 
 It's pretty to me.
 
 
-### 🌸 The site looks very "bare bones" though
+### 🗑️ The site looks very "bare bones" though
 
 I've opted for a very minimalist theme that will allow me to jot down ideas or document updates and in clean and efficient way. Having run more colorful blogs in the past with all the bells and whistles, I just want something that will allow me to get straight to the point. 
 
 
-### 🌸 Contact? How can I bring all my impeccable opinions to your attention?
+### 🗑️ Contact? How can I bring all my impeccable opinions to your attention?
 
 You can find a link to my Mastodon account under every article. I've tried the email thing in the past and it just led me down a world of spamful pain. So please reach out to me there for the meantime. I'm still considering alternatives for the future. 
 
