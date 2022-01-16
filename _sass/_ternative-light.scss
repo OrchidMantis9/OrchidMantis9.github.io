@@ -1,17 +1,15 @@
 /**
- * Ocean theme variables
-
- #   --base-color: #DBDBDB;
+ * Ternative-light theme variables
  */
 
  :root {
-    --highlight-color: #BEBEBE;
-    --base-color: #BEBEBE;
-    --border: dashed 1px rgba(190, 190, 190, 0.9);
-    --border-radii: 0px;
-    --selection-background: rgba(190, 190, 190, 0.99);
-    --selection-text: #2E3440;
-    --background-color: #2E3440;
+    --highlight-color: rgb(63, 160, 160);
+    --base-color: #8D6B8D;
+    --border: dotted 2px rgba(203, 170, 203, 0.9);
+    --border-radii: 10px;
+    --selection-background: rgba(203, 170, 203, 0.99);
+    --selection-text: #ECEAE4;
+    --background-color: #ECEAE4;
     --text-color: var(--base-color);
     --placeholder-color: var(--base-color);
     --link-color: var(--base-color);

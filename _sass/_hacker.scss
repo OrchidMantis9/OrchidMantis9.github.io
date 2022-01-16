@@ -3,8 +3,10 @@
  */
 
 :root {
+  --highlight-color: #00ff00; 
   --base-color: #00ff00;
   --border: dashed 1px rgba(0, 255, 0, 0.9);
+  --border-radii: 0px;
   --selection-background: rgba(0, 255, 0, 0.99);
   --selection-text: #000;
   --background-color: #000;

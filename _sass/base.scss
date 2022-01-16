@@ -13,12 +13,13 @@ $container-max-width:  600px !default;
 
 /**
  * Global
+ * UPDATED++++++++++++++++++++++++++++++++++++++ TO INCLUDE PADDING 5PX LEFT AND RIGHT AND 10PX BORDER RADIUS
  */
 body { background-color: var(--background-color);  margin: 0 auto;  padding: 0;  font-family: $base-font-family;  font-size: $base-font-size;  color: var(--text-color);  text-align: left;  line-height: $base-line-height !important; }
 h1, h2, h3, h4, h5, h6 { font-size: $base-font-size;  margin: 0px;  margin-top: 22px;  font-weight: bold;  color: var(--text-color); }
 p, ul, ol { margin: 0px;  color: var(--text-color); }
-a { text-decoration: underline;  color: var(--link-color); }
-a:hover { color: var(--background-color); background-color: var(--base-color); }
+a { text-decoration: underline;  color: var(--link-color); padding-left: 5px; padding-right: 5px;}
+a:hover {border-radius: var(--border-radii); color: var(--background-color); background-color: var(--highlight-color); }
 @media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
 
 /**
@@ -52,12 +53,13 @@ footer { margin-bottom: 20px; }
 
 /**
  * Header/Navigation
+ * UPDATED++++++++++++++++++++++++++++++++++++++ TO INCLUDE PADDING 5PX LEFT AND RIGHT AND 10PX BORDER RADIUS
  */
 .menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; }
 .menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
 .menu ul li { display: inline;  margin-left: 10px; }
-.menu ul li a { text-decoration: none;  color: var(--text-color); }
-.menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
+.menu ul li a { text-decoration: none;  color: var(--text-color);  padding-left: 5px; padding-right: 5px; }
+.menu ul li a:hover { border-radius: var(--border-radii); text-decoration: none; color: var(--background-color); background-color: var(--highlight-color); }
 
 /**
  * Home Page
@@ -86,8 +88,8 @@ footer { margin-bottom: 20px; }
  */
 
 .tag_pill{
-    color: snow;
-    background-color: #b16157;
+    color: var(--background-color);
+    background-color: var(--base-color);
     border-radius: 10px;
     padding-left: 10px;
     padding-right: 10px;

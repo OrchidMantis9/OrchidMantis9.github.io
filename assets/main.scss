@@ -3,9 +3,9 @@
 # Changed import to ocean from dark
 ---
 
-@import "light-blue";
+@import "ternative-light";
 @import "base";
 
 @media (prefers-color-scheme: dark) {
-	@import "ocean";
+	@import "ternative";
 }
