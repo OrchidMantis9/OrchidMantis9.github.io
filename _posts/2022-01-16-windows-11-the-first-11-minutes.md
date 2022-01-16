@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Windows 11 annoyed me within the first 11 minutes of using it"
+title:  "Windows 11, the first 11 minutes"
 date:   2022-01-16 20:42:39 +0100
 categories: windows tech
 ---
