@@ -1,15 +1,15 @@
 /**
- * Ternative-light theme variables
+ * Moove-light theme variables
  */
 
  :root {
-    --highlight-color: rgb(63, 160, 160);
-    --base-color: #8D6B8D;
-    --border: dotted 2px rgba(203, 170, 203, 0.9);
+    --highlight-color: #cea434;
+    --base-color: #0e1f33;
+    --border: dotted 2px #0e1f33;
     --border-radii: 10px;
-    --selection-background: rgba(203, 170, 203, 0.99);
-    --selection-text: #ECEAE4;
-    --background-color: #ECEAE4;
+    --selection-background: #0e1f33; 
+    --selection-text: #cea434;
+    --background-color: #f1f1f3; 
     --text-color: var(--base-color);
     --placeholder-color: var(--base-color);
     --link-color: var(--base-color);
