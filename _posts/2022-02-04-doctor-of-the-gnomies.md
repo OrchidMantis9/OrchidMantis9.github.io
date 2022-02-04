@@ -2,7 +2,7 @@
 layout: post
 title:  "Doctor of the Gnomies!"
 date:   2022-02-04 20:28:04 +0100
-categories: keyboards artisans keycaps brewcaps ergodox
+categories: keyboards artisans keycaps
 ---
 
 I've been getting back into my mechanical keyboards hobby again lately. Well, to a certain extent I never really left it. I've been using an Ergodox daily for the past 3 years and prior to that I had been switching between boards regularly. Lately, I paid my current Ergodox some much needed attention and even began to dig through my old stock. 
