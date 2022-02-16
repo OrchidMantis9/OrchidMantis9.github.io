@@ -5,7 +5,7 @@ date:   2022-02-16 22:41:04 +0100
 categories: keyboards keycaps review
 ---
 
-![Cherry Profile Ergo Caps](/img/gnomies/choinaCaps.jpg){:class="post-image"}
+![Cherry Profile Ergo Caps](/img/choinaCaps.jpg){:class="post-image"}
 
 __Do you have any idea how expensive Ergo cap sets can run?!__
 
@@ -19,6 +19,6 @@ I took the risk and bout the set pictured above. I knew what PBT caps felt like,
 
 See, this set is a bit of a change from my religious use of DSA sets, as these are Cherry profile. I haven't used a Cherry profile set since I bout some 12 dollar wacko-made Tai Haos and despised them so much that I saved up to buy some DSA Honeywells and never looked back. I've gone back to Cherry firstly for a change of environment, as it's been a while, but secondly, to put in place a plan so stupid that it just might work... I'm going to skirt around limitations and buy Cherry base sets! 
 
-![Japanese Root](/img/gnomies/jpBase.jpg){:class="post-image"}
+![Japanese Root](/img/jpBase.jpg){:class="post-image"}
 
 I've already ordered the Japanese Root base set pictured above. This way, as long as the base set matches the modifiers from my original Cherry set, I can combine them to expand my options. Based on the photos of the set itself I'm given the impression that they will match, but that is yet to be seen. I've wanted that Japanese Root set ever since I saw PBT Sushi sets, so I hope it's a match. Of course, I could always just spring for the modifiers I need to make an Ergo set with matching colorways to whatever base set I'm looking to use, but the hassle of buying every cap separately is more of a pain, although I can see myself doing this in future. Eitherway, the experiment is still underway so I'll post an image of my setup soon. 
