@@ -5,11 +5,11 @@ date:   2022-02-16 22:41:04 +0100
 categories: keyboards keycaps review
 ---
 
-![Cherry Profile Ergo Caps](/img/choinaCaps.jpg){:class="post-image"}
-
 __Do you have any idea how expensive Ergo cap sets can run?!__
 
 I love my Ergodox keebs, but man does it suck to find new keycaps for them. Back when I was a 60% user the mech scene was still growing. There were amazing sets in circulation, and I remember the excitement of every new announcement. The problem with these was getting your hands one them to begin with. There were far fewer sets than there are readily available now. With the right timing and some import tax cash ready to go, you can get your hands on some really great deals. I still regret not taking advantage of my options, even back then. PimpMyKeyboard was my _go-to_ window shop, especially for the DSA Otaky set... might still buy that... Finding a good deal on Ergo sets nowadays? Still not fun.
+
+![Cherry Profile Ergo Caps](/img/choinaCaps.jpg){:class="post-image"}
 
 Now PimpMyKeyboard have some great Ergo sets to accompany some of their more popular base sets. The big issue for us non-American residents has always been shipping, both time and fees. Depending on the seller, there may not even be and option to ship a set out of the USA, and even when you can, you _know_ you've spent enough on the set itself to warrant a love letter from the national import taxers. Import fees can sometimes reach highs of 60% of the price of the original purchase. So yeah, not too attractive an option. 
 
