@@ -25,6 +25,7 @@ style: ternative
 listen_for_clients_preferred_style: true
 header_pages:
   - index.md
+  - categories.md
   - about.md
 footer: 'OM9 🗿 find me on <a rel="me" href="https://fosstodon.org/web/@OrchidMantis9">Mastodon</a>'
 rss: 'rss'
